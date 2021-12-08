@@ -1,6 +1,6 @@
 |License|  |Documentation|
 
-NVIDIA DALI
+NVIDIA DALI.
 ===========
 .. overview-begin-marker-do-not-remove
 
